@@ -1,0 +1,57 @@
+body {
+    background-image: url("summer.jpg");
+    background-size: cover;
+    font-family: 'Khand', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+h1 {
+    margin: 1em 0.5em 0.2em;
+    font-weight: bold;
+    font-size: 3rem;
+    color: darkmagenta;
+
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: darkmagenta;
+
+
+}
+
+p {
+    font-size: 1.8rem;
+    color: darkmagenta;
+    font-weight: 600;
+
+}
+
+button {
+    border: none;
+    padding: .7em;
+    color: papayawhip;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-family: inherit;
+    font-size: 1.4rem;
+    letter-spacing: 0.05em;
+}
+
+#increment-btn {
+    background: palevioletred;
+}
+
+#save-btn {
+    
+    background: purple;
+
+}
+
